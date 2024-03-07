@@ -1,6 +1,6 @@
 ﻿namespace ExaminationSystem.Models.Tables
 {
-    public class CourseInstructor
+    public class InstructorCourse
     {
     }
 }
