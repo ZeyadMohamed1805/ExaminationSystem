@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Combo Project\\ExaminationSystem\\ExaminationSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7834E144-224F-4B91-8D66-D70AC51CBA64}|ExaminationSystem\\ExaminationSystem.csproj|e:\\combo project\\examinationsystem\\examinationsystem\\examinationsystem\\models\\tables\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7834E144-224F-4B91-8D66-D70AC51CBA64}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\models\\tables\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7834E144-224F-4B91-8D66-D70AC51CBA64}|ExaminationSystem\\ExaminationSystem.csproj|e:\\combo project\\examinationsystem\\examinationsystem\\examinationsystem\\models\\tables\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7834E144-224F-4B91-8D66-D70AC51CBA64}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\models\\tables\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7834E144-224F-4B91-8D66-D70AC51CBA64}|ExaminationSystem\\ExaminationSystem.csproj|e:\\combo project\\examinationsystem\\examinationsystem\\examinationsystem\\models\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7834E144-224F-4B91-8D66-D70AC51CBA64}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\models\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Combo Project\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem\\Models\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Models\\Tables\\Student.cs",
+              "ToolTip": "E:\\Combo Project\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem\\Models\\Tables\\Student.cs",
+              "RelativeToolTip": "ExaminationSystem\\Models\\Tables\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:09:13.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\Combo Project\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem\\Models\\Tables\\Role.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Models\\Tables\\Role.cs",
+              "ToolTip": "E:\\Combo Project\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem\\Models\\Tables\\Role.cs",
+              "RelativeToolTip": "ExaminationSystem\\Models\\Tables\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:08:13.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\Combo Project\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem\\Models\\Tables\\Question.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Models\\Tables\\Question.cs",
+              "ToolTip": "E:\\Combo Project\\ExaminationSystem\\ExaminationSystem\\ExaminationSystem\\Models\\Tables\\Question.cs",
+              "RelativeToolTip": "ExaminationSystem\\Models\\Tables\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T22:07:35.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
