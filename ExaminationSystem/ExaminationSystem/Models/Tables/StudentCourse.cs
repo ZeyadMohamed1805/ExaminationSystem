@@ -1,16 +1,19 @@
-﻿namespace ExaminationSystem.Models.Tables
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace ExaminationSystem.Models.Tables
 {
     public class StudentCourse
     {
-        public StudentCourse()
-        {
-            Students = new HashSet<Student>();
-            Courses = new HashSet<Course>();
-        }
+        //attributes
+        [ForeignKey("Course")]
         public int CourseId { get; set; }
+        [ForeignKey("Student")]
         public int StudentId { get; set;}
+        //
         public int Grade { get; set;}
-        public ICollection<Student> Students { get; set; }
-        public ICollection<Course> Courses { get; set; }
+
+        //navigation properties
+        public Student Student { get; set; }
+        public Course Course { get; set; }
     }
 }

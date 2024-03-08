@@ -5,6 +5,11 @@ namespace ExaminationSystem.Database
 {
     public class ApplicationDbContext : DbContext
     {
+        //tables
+        //public DbSet<Student> Students { get; set; }
+        //public DbSet<Course> Courses { get; set; }
+        //public DbSet<Exam> Exams { get; set; }  
+        //public DbSet<Question> Questions { get; set; }
         //public DbSet<StudentCourse> studentCourses { get; set; }
         //public DbSet<StudentExamQuestion> studentExamQuestions { get; set;}
 
